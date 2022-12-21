@@ -1,0 +1,95 @@
+============================================================
+
+              UI DESIGN REFFRENCE LINK
+
+============================================================
+Boostrap Framework:
+	https://getbootstrap.com/docs/4.1/examples/
+============================================================
+ICON:
+	https://fontawesome.com/v4.7.0/icons/
+============================================================
+SLIDER:
+	https://coolcarousels.frebsite.nl/c/68/
+============================================================
+Crousel:
+	http://www.landmarkmlp.com/js-plugin/owl.carousel/
+============================================================
+Bootsrap Service Box:
+	http://www.bestjquery.com/lab/service-box/
+============================================================
+Boostrap Testimonial:
+	http://www.bestjquery.com/lab/testimonials-showcase/
+============================================================
+Bootsrap Chart:
+	https://canvasjs.com/jquery-charts/
+============================================================
+Bootsrap Animation:
+	https://daneden.github.io/animate.css/
+
+
+============================================================
+icon:
+   https://fontawesome.com/v4.7.0/icons/
+
+
+============================================================
+	IMPORTANT INFORMATION
+
+============================================================
+1) Used Free Code.
+2) Comment Code.
+3) Remove White Space.
+4) Compress Image and free.
+5) Code Style with sequence.
+6) Js link used in footer.
+7) Used favicon.
+8) No dummy link used(#)
+9) dummy text or images get from (https://www.lipsum.com/).
+10) used dummy logo.
+11) Create common class for more used.
+12) write less code
+13) used metadata
+14) if any form used email and mobile number compulsary...
+
+===========================================================
+
+Reffrence Link for website
+
+===========================================================
+
+1) createbloq
+2) awwwords
+3) codrops
+4) csswinner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

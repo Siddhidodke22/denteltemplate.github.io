@@ -1,0 +1,402 @@
+.info{
+	float: left;
+    padding-right: 57px;
+    padding-left: 35px;
+	font-size: 13px;
+    text-transform: capitalize;
+}
+.infos{
+	    padding-left: 247px;
+}
+.head{
+	border-top: 10px solid #1ec3f3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+	border-bottom: 1px solid #0000ff26;
+}
+.info i{
+	font-size: 45px;
+    color: #1ec3f3;
+    float: left;
+    margin-left: -45px;
+    padding-top: 5px;
+}
+.info h5{
+	color:#797575;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: Calibri;
+}
+.info p{
+	    margin-top: -8px;
+		color:#8a8888;
+}
+.icons{
+	float: right;
+}
+.icons i{
+	font-size: 15px;
+    color: #b9b4b4;
+    font-weight: 600;
+    padding: 18px 10px;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+ 
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+    display: block;
+ 
+    color: #807f7f;
+    text-align: center;
+    padding: 14px 32px;
+    text-decoration: none;
+    font-size: 17px;
+   font-weight: 600;
+    font-family: Calibri;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+ text-decoration:none;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+ 
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+.carousel-txt{
+	background:#00000080;
+	padding:30px 20px!important;
+	    width: 61%;
+    text-align: justify;
+    padding: 20px;
+	position:absolute;
+	margin-top:-425px;
+}
+.carousel-txt h1{
+	font-size: 40px;
+    font-weight: 700;
+	margin-top:0px;
+}
+.carousel-txt p{
+	font-size: 17px!important;
+    font-family: sans-serif;
+}
+.carousel-txt a{
+	background:#31b5df;
+    border: 0px;
+    padding: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.heading h3{
+	text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: white;
+	font-family: sans-serif;
+}
+.forms{
+	padding-top: 20px;
+    padding-bottom: 40px;
+    background: #0a2031;
+}
+.form-group input{
+	padding: 30px;
+    border-radius: 200px;
+    padding-right: 120px;
+    margin-right: 20px;
+	font-size: 23px;
+    text-transform: capitalize;
+	  
+}
+.form-inline button{
+	font-size: 20px;
+    text-transform: uppercase;
+    background: #31b5df;
+    padding: 16px;
+    border-radius: 200px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.form-inline{
+	    padding-top: 90px;
+    padding-bottom: 10px;
+}
+.headings p{
+	text-transform: capitalize;
+    margin: 0 auto;
+    text-align: center;
+    float: none;
+    width: 60%;
+    color: #808080a3;
+    font-family: sans-serif;
+	padding-top: 10px;
+}
+.headings h2{
+	text-transform: capitalize;
+    text-align: center;
+	padding-top: 10px;
+    font-family: Malgun Gothic;
+}
+.common-class{
+	text-align:center;
+}
+.common-class img{
+	width: 25%;
+    border: 2px solid #102646;
+    border-radius: 20px;
+}
+.clinic-details{
+	text-align:center;
+	padding-left: 55px!important;
+    padding-right: 55px!important;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.clinic-details img{
+	width: 85px;
+    height: 85px;
+	border-radius: 20px;
+ }	
+.clinic-details h4{
+	text-transform:capitalize; 
+ }
+.clinic-details p{
+	color: #808080b8;
+}
+.clinic-details a{
+	color: #808080b8;
+} 
+.about h2{
+	text-transform: uppercase;
+     color:#0a2031e8;
+    margin-top: -10px;
+    font-family: Humnst777 Blk BT;
+}
+.about p{
+	color: #929191;
+    text-transform: capitalize;
+    font-family: Malgun Gothic;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+.about span{
+	text-transform: uppercase;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 200px;
+    background: #31b5df;
+}
+.featurette{
+	    margin-top: 50px;
+}
+.overlay{
+	background: linear-gradient(0deg,rgba(11, 30, 49, 0.80),rgba(11, 30, 49, 0.80)), url(images/bg8.png);
+	padding-bottom: 40px;
+    padding-top: 60px;
+	margin-top: 50px;
+}
+.back h2{
+	color: #65502a47;
+    text-transform: capitalize;
+    font-weight: 600;
+	text-align:center;
+	margin: 0;
+}
+.back p{
+	text-align: center;
+    float: none;
+    margin: 0 auto;
+    width: 40%;
+    color: #ffffffd9;
+    font-family: Malgun Gothic;
+	padding-bottom: 50px;
+  padding-top: 25px;
+}
+.blank img{
+	border-radius: 50%;
+        width: 105px;
+    height: 105px;
+    padding: 10px;
+    margin: 1px dashed blue;
+    border: 1px dashed #136c90;
+}
+.information p{
+	text-align: justify;
+    font-family: Malgun Gothic;
+    color: #ffffffc7;
+    padding-bottom: 10px;
+}
+.blank p{
+	padding-top: 40px;
+    color: #136c90;
+    font-family: cursive;
+}
+.footer{
+	background: #0b1c2e!important;
+    color: #ffffff61!important;
+    padding-top: 15px!important;
+	padding-bottom: 5px;
+}
+.center-block span{
+	    color:#136c90;
+}
+.dental-clinic {
+	background: #0e2036;
+	color:white;
+	padding-bottom: 60px;
+    padding-top: 60px;
+	margin-top: 60px;
+}
+.info-one p{
+	text-transform: capitalize;
+    text-align: justify;
+    padding-top: 40px;
+	padding-bottom: 15px;
+	 color:#ffffff9e;
+}
+.info-one i{
+	color: #136c90;
+    float: left;
+    padding-right: 10px;
+}
+.info-one h6{
+	padding-top: 2px;
+	 color:#ffffff9e;
+}
+.link h4{
+	text-transform: capitalize;
+}
+.menu li{
+	list-style: none;
+    font-size: 13px;
+    text-transform: capitalize;
+    color: #ffffffad;
+    padding-bottom: 14px;
+}
+.menu li i{
+	    color: #ffffff61;
+    padding-right: 5px;
+	font-size: 17px;
+}
+
+.menu li i:hover{
+	color: #136c90;
+}
+.time h4{
+	text-transform: capitalize;
+}
+.time i{
+	color: #136c90;
+    float: left;
+    padding-right: 10px;
+    font-size: 12px;
+    padding-top: 2px;
+}
+.time h6{
+	padding-top: 2px;
+    color: #ffffff61;
+    text-transform: uppercase;
+    font-size: smaller;
+    font-size: 11px;
+}	
+.time p{
+	font-size: 14px;
+    text-transform: capitalize;
+    color: #ffffffad;
+    font-family: Malgun Gothic;
+    padding-top: 4px;
+	padding-right: 31px;
+}
+.news h4{
+	text-transform: capitalize;
+}
+.news P{
+	color:#ffffff9e;
+}
+.news input{
+	background: #ffffff40;
+    border: 0px;
+    border-radius: 0px;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+	text-transform: uppercase;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 600;	
+}
+.news a{
+	font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 0px;
+    background: #2d7dd4!important;
+    border: 0px;
+	padding: 10px;
+
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+
+
